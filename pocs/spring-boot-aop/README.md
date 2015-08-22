@@ -6,7 +6,7 @@ Este projeto é uma poc sobre AOP utilizando o spring boot como principal freame
 
 
 
-para rodar o programa, tem que ter instalado o Maven ou superior e rodar o comando na pasta raiz do projeto:
+para rodar o programa, tem que ter instalado o Maven 3 ou superior e rodar o comando na pasta raiz do projeto:
 
 ` mvn package `
 
